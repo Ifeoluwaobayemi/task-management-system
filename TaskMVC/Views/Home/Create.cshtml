@@ -1,0 +1,19 @@
+﻿@model TaskMVC.Models.CreateTaskDto
+
+<h2>Create Task</h2>
+
+<form asp-action="Create" method="post">
+    <!-- Add form fields for your CreateTaskDto properties -->
+
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <!-- Add other form fields -->
+
+    <button type="submit" class="btn btn-primary">Create Task</button>
+</form>
+
+<a asp-action="Index" class="btn btn-secondary">Back to Task List</a>

@@ -1,0 +1,28 @@
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\bin\Debug\net7.0\TaskAPI.Models.deps.json
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\bin\Debug\net7.0\TaskAPI.Models.runtimeconfig.json
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\bin\Debug\net7.0\TaskAPI.Models.dll
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\bin\Debug\net7.0\TaskAPI.Models.pdb
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.AssemblyInfo.cs
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.dll
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\refint\TaskAPI.Models.dll
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.pdb
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.genruntimeconfig.cache
+C:\Users\Dell\Desktop\SOFTWARE DEV\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\ref\TaskAPI.Models.dll
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\bin\Debug\net7.0\TaskAPI.Models.deps.json
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\bin\Debug\net7.0\TaskAPI.Models.runtimeconfig.json
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\bin\Debug\net7.0\TaskAPI.Models.dll
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\bin\Debug\net7.0\TaskAPI.Models.pdb
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.AssemblyInfo.cs
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.dll
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\refint\TaskAPI.Models.dll
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.pdb
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\TaskAPI.Models.genruntimeconfig.cache
+C:\Users\Dell\Desktop\TaskManagementSystem\TaskAPI.Models\obj\Debug\net7.0\ref\TaskAPI.Models.dll
